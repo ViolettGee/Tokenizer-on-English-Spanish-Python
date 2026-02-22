@@ -1,0 +1,187 @@
+﻿See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/336700280
+History of computer and its generations.
+Presentation · October 2019
+  
+
+CITATION        READS
+  
+1        911,051
+  
+
+All content following this page was uploaded by Ishaq Zakari on 21 October 2019.
+The user has requested enhancement of the downloaded file.
+  
+
+ 
+  
+
+INTRODUCTION 
+  
+
+The computers in recent times have become a relevant too particularly in the areas of storage and dissemination of information. The ease with which the computer function, i.e. the speed, accuracy and readiness. 
+ With the usefulness of the computer, it has become fashionable for organizations to be computerized, that is, a computer department is created to serve the whole organization and expert or professionals are employed to manage the department. It is today becoming increasingly difficult for computer illiterates to get good employments, as computer literacy is now a pre-requisite for most jobs. 
+ The world is becoming a global village through the use of computer, thus there is the need for everyone to be computer illiterate. 
+The computer age was characterized by generation of computers, which signified that computer had pass through stages of evolution or development. Before we could arrive at the present day computers, it has undergone stages of development known as generation of computers. 
+What is Computer? 
+         A computer is an electronic device used to store retrieve and manipulate data. 
+ A computer also defines as a programmable electromechanical device that accept instruction (program) to direct the operations of the computers. Four words can be deducted from the above definition for further illustration. 
+Examples 
+i.         Store:         To put data somewhere for safe keeping ii.         Retrieve: To get and bring the data back. 
+        iii.         Process: To calculate compare arrange. 
+What is Computer Science? 
+ Computer science (sometimes called computation science or computing science, but not to be confused with computational science or software engineering) is the study of processes that interact with data and that can be represented as data in the form of programs. It enables the use of algorithms to manipulate, store, and communicate digital information. A computer scientist studies the theory of computation and the practice of designing software systems. 
+ Its fields can be divided into theoretical and practical disciplines. Computational complexity theory is highly abstract, while computer graphics emphasizes real-world applications. Programming language theory considers approaches to the description of computational processes, while computer programming itself involves the use of programming languages and complex systems. Human– computer interaction considers the challenges in making computers useful, usable, and accessible. 
+ 
+  
+
+HISTORICAL BACKGROUND OF COMPUTER: 
+  
+
+The history of computer dated back to the period of scientific revolution (i.e. 1543 – 1678). The calculating machine invented by Blaise Pascal in 1642 and that of Goffried Liebnits marked the genesis of the application of machine in industry. 
+This progressed up to the period 1760 – 1830 which was the period of the industrial revolution in Great Britain where the use of machine for production altered the British society and the Western world. During this period Joseph Jacquard invented the weaving loom (a machine used in textile industry). 
+The computer was born not for entertainment or email but out of a need to solve a serious number-crunching crisis. By 1880, the United State (U.S) population had grown so large that it took more than seven years to tabulate the U.S. Census results. The government sought a faster way to get the job done, giving rise to punch-card based computers that took up entire rooms. Today, we carry more computing power on our smart phones than was available in these early models. The following brief history of computing is a timeline of how computers evolved from their humble beginnings to the machines of today that surf the Internet, play games and stream multimedia in addition to crunching numbers. The followings are historical events of computer. 
+1623: Wilhelm Schickard designed and constructed the first working mechanical calculator. 
+1673: Gottfried Leibniz demonstrated a digital mechanical calculator, called the Stepped Reckoner. He may be considered the first computer scientist and information theorist, for, among other reasons, documenting the binary number system. 
+1801: In France, Joseph Marie Jacquard invents a loom that uses punched wooden cards to automatically weave fabric designs. Early computers would use similar punch cards. Home / News / Tech / Health / Planet Earth / Strange News / Animals / History / Culture / Space & Physics. 
+1820: Thomas de Colmar launched the mechanical calculator industry when he released his simplified arithmometer, which was the first calculating machine strong enough and reliable enough to be used daily in an office environment. 
+1822: English mathematician Charles Babbage (Father of Computer) conceives of a steam-driven calculating machine that would be able to compute tables of numbers. The project, funded by the English government, is a failure. More than a century later, however, the world's first computer was actually built.  
+1843:  During the translation of a French article on the Analytical Engine, Ada Lovelace wrote, in one of the many notes she included, an algorithm to compute the Bernoulli numbers, which is considered to be the first published algorithm ever specifically tailored for implementation on a computer. 
+1885:  Herman Hollerith invented the tabulator, which used punched cards to process statistical information; eventually his company became part of IBM. 
+1890: Herman Hollerith designs a punch card system to calculate the 1880 census, accomplishing the task in just three years and saving the government $5 million. He establishes a company that would ultimately become IBM.  
+1936: Alan Turing presents the notion of a universal machine, later called the Turing machine, capable of computing anything that is computable. The central concept of the modern computer was based on his ideas.  
+1937: J.V. Atanasoff, a professor of physics and mathematics at Iowa State University, attempts to build the first computer without gears, cams, belts or shafts. 
+1937: One hundred years after Babbage's impossible dream, Howard Aiken convinced IBM, which was making all kinds of punched card equipment and was also in the calculator business to develop his giant programmable calculator, the ASCC/Harvard Mark I, based on Babbage's Analytical Engine, which itself used cards and a central computing unit. When the machine was finished, some hailed it as "Babbage's dream come true". 
+1939: Hewlett-Packard is founded by David Packard and Bill Hewlett in a Palo Alto, California, garage, according to the Computer History Museum.   
+1941: Atanasoff and his graduate student, Clifford Berry, design a computer that can solve 29 equations simultaneously. This marks the first time a computer is able to store information on its main memory.  
+1943-1944: Two University of Pennsylvania professors, John Mauchly and J. Presper Eckert, build the Electronic Numerical Integrator and Calculator (ENIAC). Considered the grandfather of digital computers, it fills a 20-foot by 40-foot room and has 18,000 vacuum tubes.  
+1946: Mauchly and Presper leave the University of Pennsylvania and receive funding from the Census Bureau to build the UNIVAC, the first commercial computer for business and government applications.  
+1947: William Shockley, John Bardeen and Walter Brattain of Bell Laboratories invent the transistor. They discovered how to make an electric switch with solid materials and no need for a vacuum.   
+1953: Grace Hopper develops the first computer language, which eventually becomes known as COBOL. Thomas Johnson Watson Jr., son of IBM CEO Thomas Johnson Watson Sr., conceives the IBM 701 EDPM to help the United Nations keep tabs on Korea during the war.  
+1954: The FORTRAN programming language, an acronym for FORmula TRANslation, is developed by a team of programmers at IBM led by John Backus, according to the University of Michigan. 
+1958: Jack Kilby and Robert Noyce unveil the integrated circuit, known as the computer chip. Kilby was awarded the Nobel Prize in Physics in 2000 for his work.  
+1964: Douglas Engelbart shows a prototype of the modern computer, with a mouse and a graphical user interface (GUI). This marks the evolution of the computer from a specialized machine for scientists and mathematicians to technology that is more accessible to the general public.  
+1969: A group of developers at Bell Labs produce UNIX, an operating system that addressed compatibility issues. Written in the C programming language, UNIX was portable across multiple platforms and became the operating system of choice among mainframes at large companies and government entities. Due to the slow nature of the system, it never quite gained traction among home PC users. 1970: The newly formed Intel unveils the Intel 1103, the first Dynamic Access Memory (DRAM) chip.  
+1971: Alan Shugart leads a team of IBM engineers who invent the "floppy disk," allowing data to be shared among computers.  
+1973: Robert Metcalfe, a member of the research staff for Xerox, develops Ethernet for connecting multiple computers and other hardware.  
+1974 -1977: A number of personal computers hit the market, including Scelbi & Mark-8 Altair, IBM 5100, Radio Shack's TRS-80 — affectionately known as the "Trash 80" — and the Commodore PET.  
+1975: The January issue of Popular Electronics magazine features the Altair 8080, described as the "world's first minicomputer kit to rival commercial models." Two "computer geeks," Paul Allen and Bill Gates, offer to write software for the Altair, using the new Beginners All Purpose Symbolic Instruction Code (BASIC) language. On April 4, after the success of this first endeavor, the two childhood friends form their own software company, Microsoft.   
+1976: Steve Jobs and Steve Wozniak start Apple Computers on April Fool's Day and roll out the Apple I, the first computer with a single-circuit board, according to Stanford University.   
+1977: Radio Shack's initial production run of the TRS-80 was just 3,000. It sold like crazy. For the first time, non-geeks could write programs and make a computer do what they wished.  
+1977: Jobs and Wozniak incorporate Apple and show the Apple II at the first West Coast Computer Faire. It offers color graphics and incorporates an audio cassette drive for storage.  
+1978: Accountants rejoice at the introduction of VisiCalc, the first computerized spreadsheet program.  
+1979: Word processing becomes a reality as MicroPro International releases WordStar. "The defining change was to add margins and word wrap," said creator Rob Barnaby in email to Mike Petrie in 2000. "Additional changes included getting rid of command mode and adding a print function. I was the technical brains — I figured out how to do it, and did it, and documented it. 
+"The first IBM personal computer, introduced on Aug. 12, 1981, used the MSDOS operating system. (Image: © IBM). 
+1981: The first IBM personal computer, code-named "Acorn," is introduced. It uses Microsoft's MSDOS operating system. It has an Intel chip, two floppy disks and an optional color monitor. Sears & Roebuck and Computer land sell the machines, marking the first time a computer is available through outside distributors. It also popularizes the term PC.  
+1983: Apple's Lisa is the first personal computer with a graphical user interface (GUI). It also features a drop-down menu and icons. It flops but eventually evolves into the Macintosh. The Gavilan SC is the first portable computer with the familiar flip form factor and the first to be marketed as a "laptop." The TRS80, introduced in 1977, was one of the first machines whose documentation was intended for non-geeks (Image: © Radioshack)  
+1985: Microsoft announces Windows, according to Encyclopedia Britannica. 
+This was the company's response to Apple's graphical user interface (GUI). Commodore unveils the Amiga 1000, which features advanced audio and video capabilities.  
+1985: The first dot-com domain name is registered on March 15, years before the World Wide Web would mark the formal beginning of Internet history. The Symbolics Computer Company, a small Massachusetts computer manufacturer, registers Symbolics.com. More than two years later, only 100 dot-coms had been registered.  
+1986: Compaq brings the “Deskpro 386” to market. Its 32-bit architecture provides as speed comparable to mainframes.  
+1990: Tim Berners-Lee, a researcher at CERN, the high-energy physics laboratory in Geneva, develops Hyper Text Markup Language (HTML), giving rise to the World Wide Web.  
+1993: The Pentium microprocessor advances the use of graphics and music on PCs. 
+1994: PCs become gaming machines as "Command & Conquer," "Alone in the Dark 2," "Theme Park," "Magic Carpet," "Descent" and "Little Big Adventure" are among the games to hit the market.  
+1996: Sergey Brin and Larry Page develop the Google search engine at Stanford University.  
+1997: Microsoft invests $150 million in Apple, which was struggling at the time, ending Apple's court case against Microsoft in which it alleged that Microsoft copied the "look and feel" of its operating system.  
+1999: The term Wi-Fi becomes part of the computing language and users begin connecting to the Internet without wires.  
+2001: Apple unveils the Mac OS X operating system, which provides protected memory architecture and pre-emptive multi-tasking, among other benefits. Not to be outdone, Microsoft rolls out Windows XP, which has a significantly redesigned graphical user interface GUI.  
+2003: The first 64-bit processor, AMD's Athlon 64, becomes available to the consumer market.  
+2004: Mozilla's Firefox 1.0 challenges Microsoft's Internet Explorer, the dominant Web browser. Facebook, a social networking site, launches.  
+2005: YouTube, a video sharing service, is founded. Google acquires Android, a Linux-based mobile phone operating system.  
+2006: Apple introduces the MacBook Pro, its first Intel-based, dual-core mobile computer, as well as an Intel-based iMac. Nintendo's Wii game console hits the market.  
+2007: The iPhone brings many computer functions to the smart phone.  
+2009: Microsoft launches Windows 7, which offers the ability to pin applications to the taskbar and advances in touch and handwriting recognition, among other features.  
+2010: Apple unveils the iPad, changing the way consumers view media and jumpstarting the dormant tablet computer segment.  
+2011: Google releases the Chromebook, a laptop that runs the Google Chrome OS. 
+2012: Facebook gains 1 billion users on October 4.  
+2015: Apple releases the Apple Watch. Microsoft releases Windows 10.  
+2016: The first reprogrammable quantum computer was created. "Until now, there hasn't been any quantum-computing platform that had the capability to program new algorithms into their system. They're usually each tailored to attack a particular algorithm," said study lead author Shantanu Debnath, a quantum physicist and optical engineer at the University of Maryland, College Park.  
+2017: The Defense Advanced Research Projects Agency (DARPA) is developing a new "Molecular Informatics" program that uses molecules as computers. "Chemistry offers a rich set of properties that we may be able to harness for rapid, scalable information storage and processing," Anne Fischer, program manager in DARPA's Defense Sciences Office, said in a statement. "Millions of molecules exist, and each molecule has a unique three-dimensional atomic structure as well as variables such as shape, size, or even color. This richness provides a vast design space for exploring novel and multi-value ways to encode and process data beyond the 0s and 1s of current logic-based, digital architectures." [Computers of the Future May Be Minuscule Molecular Machines]. 
+The history of computer is considered with the generations of a computer from first generation to fifth generation. 
+In 19th century English mathematics professor name Charles Babbage referred as a “Father of Computer”. He designed the Analytical Engine and it was this design that the basic framework of the computers of today are based on. Generally speaking, computers can be classified into five generations. Each generation lasted for a certain period of time and each gave us either a new and improved computer or an improvement to the existing computer.  
+The generations of computer are as follows: 
+First Generation of Computer (1937 – 1946): 
+In 1937 the first electronic digital computer was built by Dr. John V. Atanasoff and Clifford Berry. It was called the Atanasoff-Berry Computer (ABC). In 1943 an electronic computer name the Colossus was built for the military. Other developments continued until in 1946 the first general– purpose digital computer, the Electronic Numerical Integrator and Calculator (ENIAC) was built. It is said that this computer weighed 30 tons, and had 18,000 vacuum tubes which was used for processing. When this computer was turned on for the first time lights dim in sections of Philadelphia. Computers of this generation could only perform single task, and they had no operating system.  
+Characteristics: 
+1. Sizes of these computers were as large as the size of a room. 
+2. Possession of Vacuum Tubes to perform calculation. 
+3. They used an internally stored instruction called program. iv. Use capacitors to store binary data and information. 
+5. They use punched card for communication of input and output data and information 
+6. They generated a lot of heat. vii. They have about One Thousand 1000 circuits per cubic foot. 
+Examples: 
+1. Mark I developed by Aiken in 1944. 
+2. Electronic Numerical Integrator and Calculator (ENIAC) built at the Moore School for Engineering of the University of Pennsylvania in 1946 by J. Presper Eckert and William Mauchley. iii. Electronic Discrete Variable Automatic Computer (EDVAC) also developed in 1947 by Eckert and Mauchley. 
+ 
+ 
+ 
+Second Generation of Computer (1947 – 1962): 
+Second generation of computers used transistors instead of vacuum tubes which were more reliable. In 1951 the first computer for commercial use was introduced to the public; the Universal Automatic Computer (UNIVAC 1). In 1953 the International Business Machine (IBM) 650 and 700 series computers made their mark in the computer world. During this generation of computers over 100 computer programming languages were developed, computers had memory and operating systems. Storage media such as tape and disk were in use also were printers for output.  
+Characteristics: 
+1. The computers were still large, but smaller than the first generation of computers. 
+2. They use transistor in place of Vacuum Tubes to perform calculation. 
+3. They were produced at a reduced cost compared to the first generation of computers. 
+4. Possession of magnetic tapes as for data storage. 
+5. They were using punch cards as input and output of data and information. The use of keyboard as an input device was also introduced. 
+6. These computers were still generating a lot of heat in which an air conditioner is needed to maintain a cold temperature. 
+7. They have about one thousand circuits per cubic foot. 
+Example: 
+i. Leprechaun, IBM built by Bell Laboratories in 1947 ii. Transis produced by philco, GE and RCA. 
+iii. UNIVAC 1107, UNIVAC III. iv. RCA 501. 
+        v.         IBM 7030 stretch. 
+ 
+Third Generation of Computer (1963 – 1975): 
+The invention of integrated circuit brought us the third generation of computers. With this invention computers became smaller, more powerful more reliable and they are able to run many different programs at the same time.  
+Characteristics: 
+i. They used large-scale integrated circuits, which were used for both data processing and storage. ii. Computers were miniaturized, that is, they were reduced in size compared to previous generation. 
+3. Keyboard and mouse were used for input while the monitor was used as output device. 
+4. Use of programming language like COBOL and FORTRAN were developed. 
+5. They have hundred thousand circuits per cubic foot. 
+Examples: 
+i.         Burroughs 6700, Mini computers ii.         Honeywell 200 iii.         IBM system 360 iv.         UNIVAC 9000 series. 
+Fourth Generation of Computer (PC 1975 – Current) 
+ At this time of technological development, the size of computer was redivided to what we called Personal Computers, PC. This was the time the first Microprocessor was created by Intel. The microprocessor was a very largescale, that is, VLS integrated circuit which contained thousands of transistors. 
+Transistors on one chip were capable performing all the functions of a computer’s central processing unit. 
+Characteristics: 
+i. Possession of microprocessor which performs all the task of a computer system use today. ii. The size of computers and cost was reduced. iii. Increase in speed of computers. iv. Very large scale (VLS) integrated circuits were used. v. They have millions of circuits per cubic foot. 
+Examples: 
+1. IBM system 3090, IBM RISC6000, IBM RT. 
+2. ILLIAC IV. iii.         Cray 2 XMP. iv.         HP 9000. 
+        v.         Apple Computers. 
+Fifth Generation of Computers (Present and Beyond) 
+ Fifth generations computing devices, based on artificial intelligence (AI) are still in development, although there are some application such as voice recognition, facial face detector and thumb print that are used today. 
+Characteristics: 
+1. Consist of extremely large scale integration. 
+2. Parallel processing iii.         Possession of high speed logic and memory chip. iv.         High performance, micro-miniaturization. 
+5. Ability of computers to mimic human intelligence, e.g. voice recognition, facial face detector, thumb print. 
+6. Satellite links, virtual reality. vii.         They have billions of circuits per cubic. 
+Examples: 
+i. Super computers ii. Robots 
+iii.         Facial face detector iv.         Thumb print. 
+ 
+  
+
+Conclusion: 
+  
+
+The earliest foundations of what would become computer science predate the invention of the modern digital computer. Machines for calculating fixed numerical tasks such as the abacus have existed Charles Babbage, sometimes referred to as the "father of computing". Ada Lovelace is often credited with publishing the first algorithm intended for processing on a computer.  
+Since antiquity, aiding in computations such as multiplication and division. Algorithms for performing computations have existed since antiquity, even before the development of sophisticated computing equipment. 
+In1980 Microsoft Disk Operating System (MS-Dos) was born and in 1981 IBM introduced the personal computer (PC) for home and office use. Three years later Apple gave us the Macintosh computer with its icon driven interface and the 90s gave us Windows operating system. As a result of the various improvements to the development of the computer we have seen the computer being used in all areas of life. It is a very useful tool that will continue to experience new development as time passes. 
+  
+
+REFERENCES 
+  
+
+"Charles Babbage Institute: Who Was Charles Babbage?" . cbi.umn.edu. 
+Retrieved December 28, 2016. 
+"Ada Lovelace | Babbage Engine | Computer History Museum" . www.computerhistory.org. Retrieved December 28, 2016. 
+"Wilhelm Schickard – Ein Computerpionier" (PDF) (in German). 
+Keates, Fiona (June 25, 2012). "A Brief History of Computing" . The Repository. The Royal Society.  
+"Science Museum—Introduction to Babbage" . Archived from the original on September 8, 2006. Retrieved September 24, 2006.  
+Anthony Hyman (1982). Charles Babbage, pioneer of the computer. 
+"In this sense Aiken needed IBM, whose technology included the use of punched cards, the accumulation of numerical data, and the transfer of numerical data from one register to another", Bernard Cohen, p.44 (2000).  
+Brian Randell, p. 187, 1975. 
+The Association for Computing Machinery (ACM) was founded in 1947. 
+        "IBM         Archives:         1945"         .         Ibm.com.         Retrieved         March         19,         2019. 
+"IBM100 – The Origins of Computer Science" . Ibm.com. September 15, 1995. Retrieved March 19, 2019. 
+Denning, Peter J. (2000). "Computer Science: The Discipline" (PDF). Encyclopedia of Computer Science. Archived from the original (PDF) on May 25, 2006. 
+ 
+View publication stats
