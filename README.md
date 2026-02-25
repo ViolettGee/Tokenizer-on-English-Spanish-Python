@@ -18,16 +18,18 @@ This project is implemented in Jupyter Notebooks using Python 3.9+ and is compat
 
 ## **2.1 Preparations**
 (1) Clone the repository to your workspace
-'''shell
+
+```shell
 ~ $ git clone https://github.com/ViolettGee/Tokenizer-on-English-Spanish-Python.git
-'''
+```
 
 ## **2.2 Install Packages**
 (2) Install the required dependecies:
-'''shell
+
+```shell
 ~ $pip install tokenizers
 ~ $pip install pathlib
-'''
+```
 
 ## **2.3 Run Tokenizer**
 The script should be run by runnning each of the nodes within the Jupyter Notebook file. The model is ready to run; however, if you would like to use your own data, you may exchange it wiht the data in the files. Keep in mind that the files in the "English" and "Spanish" folders should both be formatted as .txt file, and the files in the "Python" folder should be formated as .py files.
