@@ -28,7 +28,6 @@ This project is implemented in Jupyter Notebooks using Python 3.9+ and is compat
 
 ```shell
 ~ $pip install tokenizers
-~ $pip install pathlib
 ```
 
 ## **2.3 Run Tokenizer**
