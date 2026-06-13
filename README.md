@@ -35,5 +35,5 @@ The script should be run by runnning each of the nodes within the Jupyter Notebo
 
 "tok.ipynb" The file creates a tokenizer's for and tokenizes each of the Languages: English, Python, and Spanish. Each language is loaded into a dataset from the files located in the respective folders. The text is then normalized to become strip white-space and make all text lower case. Then, the tokenizer is initialized with a pre-toknizer before training the tokenizer on its respective dataset. Once trained, each tokenizer is trained they are tested by encoding a new sample and printing the found tokens.
 
-## **3. Results**
+# **3. Results**
 They python tokenizer performed the best having less unknowns, likely due to the repetitive nature of the language. The English and Spanish had more unknown tokens suggesting that more training data is needed for better coverage. Overall, the WordPiece approach provides meaningful subword tokenization across different languages and text types.
